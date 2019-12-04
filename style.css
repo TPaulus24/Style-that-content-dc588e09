@@ -1,0 +1,20 @@
+body {
+    background-color: burlywood;
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    color: black;
+    background-color: orangered;
+}
+
+.content h1 {
+    display: flex;
+    justify-content: center;
+}
+
+.news {
+    display: flex;
+}
